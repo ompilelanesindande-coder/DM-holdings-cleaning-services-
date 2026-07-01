@@ -1,0 +1,6 @@
+{
+  "name": "DM Holdings Cleaning Services",
+  "description": "Professional cleaning services in Gauteng (PTA & JHB) for cars, sofas, carpets, beds, and upholstery. Book online and get instant quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
